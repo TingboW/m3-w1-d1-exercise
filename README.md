@@ -1,1 +1,1 @@
-# wk1-day1-exercise
+# m3-w1-d1-exercise
